@@ -7,7 +7,7 @@ Le dépôt visant à se preparer au premier stage
 
 [TensorFlow](https://www.tensorflow.org/)  
 
-## Choix d'un I_ntegrated_ D_evelopment_ E_nvironment_  
+## Choix d'un _I_ntegrated _D_evelopment _E_nvironment  
 Prepa' Descartes Tours 2013-2015 : [Pyzo](https://pyzo.org/)  
 Inside Linux N°15 Hors-Serie p.70 : [Spyder](https://www.spyder-ide.org/)  
 Inside Linux N°15 Hors-Serie p.71 : [Jupyter](https://jupyter.org/)  
